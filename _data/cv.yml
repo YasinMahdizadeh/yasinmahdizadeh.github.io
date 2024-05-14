@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yasin Mahdi Zadeh
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th April 1999
     - name: Languages
-      value: English, German
+      value: English, Persian, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor
+      institution: Art University of Isfahan
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -61,10 +61,10 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Video Arts
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    - title: Then I Woke Up in Someone Else's Dream
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
