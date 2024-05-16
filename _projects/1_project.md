@@ -4,7 +4,7 @@ title: Artistic Portfolio Website
 description: A showcase website
 img: assets/img/12.jpg
 importance: 1
-category: Portfolio
+category: portfolio
 ---
 
 Every project has a beautiful feature showcase page.
