@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
+title: P5.js Sketches
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
-category: A
-giscus_comments: true
+category: Creative Coding
 ---
 
 Every project has a beautiful feature showcase page.
