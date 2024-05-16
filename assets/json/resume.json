@@ -5,14 +5,15 @@
     "image": "",
     "email": "yasin.mahdizade@gmail.com",
     "phone": "+98 919 149 9707",
-    "url": "https://yasinmahdizadeh.github.io",
+    "portfolio Website": "https://yasiinmiim.my.canva.site/",
+    "Personal Website": "https://yasinmahdizadeh.github.io/",
     "summary": "An Iranian Digital and New Media Artist.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -48,11 +49,11 @@
       "institution": "Art University of Isfahan",
       "location": "Isfahan, Iran",
       "url": "",
-      "area": "Bachelor of Architecture",
+      "area": "Bachelor of Architectural Engineering",
       "studyType": "Bachelor",
       "startDate": "2017-10-01",
       "endDate": "2022-09-01",
-      "score": "",
+      "score": "17.13 (out of 20)",
       "courses": [""]
     },
     {
@@ -63,61 +64,41 @@
       "studyType": "High School",
       "startDate": "2010-10-01",
       "endDate": "2017-09-01",
-      "score": "",
+      "score": "18.14 (out of 20)",
       "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Robocup Iran Open 2015",
+      "date": "2015-04-09",
+      "awarder": "",
+      "url": "",
+      "summary": "3rd place in Junior Demo Leauge"
+    },
+    {
+      "title": "Robocup Iran Open 2015",
+      "date": "2015-04-09",
+      "awarder": "",
+      "url": "",
+      "summary": "Participation in Junior Rescue A Secondary Leauge"
+    },
+    {
+      "title": "Robocup Iran Open 2014",
+      "date": "2014-04-09",
+      "awarder": "",
+      "url": "",
+      "summary": "Participation in Junior Soccer B Light Weitght  Leauge"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
+  "Artistic Experiences": [
     {
       "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ],
   "skills": [
@@ -165,15 +146,6 @@
         "Quantum Teleportation"
       ]
     }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
+
 }
