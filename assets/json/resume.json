@@ -53,8 +53,8 @@
       "studyType": "Bachelor",
       "startDate": "2017-10-01",
       "endDate": "2022-09-01",
-      "score": "17.13 (out of 20)",
-      "courses": [""]
+      "score": "",
+      "courses": ["17.13 (out of 20)"]
     },
     {
       "institution": "Shahid Ghoddosi High School",
@@ -64,8 +64,8 @@
       "studyType": "High School",
       "startDate": "2010-10-01",
       "endDate": "2017-09-01",
-      "score": "18.14 (out of 20)",
-      "courses": [""]
+      "score": "",
+      "courses": ["18.14 (out of 20)"]
     }
   ],
   "awards": [
