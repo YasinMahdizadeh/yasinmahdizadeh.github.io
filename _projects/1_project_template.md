@@ -1,10 +1,11 @@
----
+<!-- ---
 layout: page
-title: Artistic Portfolio Website
-description: A showcase website
+title: project 1
+description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Portfolio
+category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -77,4 +78,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
