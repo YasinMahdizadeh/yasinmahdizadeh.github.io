@@ -5,8 +5,7 @@
     "image": "",
     "email": "yasin.mahdizade@gmail.com",
     "phone": "+98 919 149 9707",
-    "portfolio Website": "https://yasiinmiim.my.canva.site/",
-    "Personal Website": "https://yasinmahdizadeh.github.io/",
+    "url": "https://yasiinmiim.my.canva.site/",
     "summary": "An Iranian Digital and New Media Artist.",
     "location": {
       "address": "",
@@ -23,27 +22,7 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Freelance",
-      "position": "3D Modeling, rendering and short cinematics",
-      "url": "",
-      "startDate": "2021-09-01",
-      "endDate": "2023-12-01",
-      "summary": "",
-      "highlights": ["Creativity"]
-    },
-    {
-      "name": "Tank.ir",
-      "position": "UI and Graphic Designer",
-      "url": "",
-      "startDate": "2021-04-01",
-      "endDate": "2021-08-01",
-      "summary": "",
-      "highlights": ["Designing","Problem Solution"]
-    }
-  ],
-
+ 
   "education": [
     {
       "institution": "Art University of Isfahan",
@@ -68,6 +47,37 @@
       "courses": ["18.14 (out of 20)"]
     }
   ],
+
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "3D Modeling, rendering and short cinematics",
+      "url": "",
+      "startDate": "2021-09-01",
+      "endDate": "2023-12-01",
+      "summary": "",
+      "highlights": ["Creativity"]
+    },
+    {
+      "name": "Tank.ir",
+      "position": "UI and Graphic Designer",
+      "url": "",
+      "startDate": "2021-04-01",
+      "endDate": "2021-08-01",
+      "summary": "",
+      "highlights": ["Designing","Problem Solution"]
+    },
+    {
+      "name": "Zorvan Studios",
+      "position": "Storyboard Artist ",
+      "url": "",
+      "startDate": "2019-12-01",
+      "endDate": "2020-03-01",
+      "summary": "",
+      "highlights": ["Visual Storytelling","Drawing"]
+    }
+  ],
+
   "awards": [
     {
       "title": "Robocup Iran Open 2015",
@@ -89,6 +99,13 @@
       "awarder": "",
       "url": "",
       "summary": "Participation in Junior Soccer B Light Weitght  Leauge"
+    },
+    {
+      "title": "",
+      "date": "2010",
+      "awarder": "",
+      "url": "",
+      "summary": "Selected as an exceptionallz talented student at the entrance exam of National Organization for Development of Exceptional Talents (NODET)"
     }
   ],
   "Artistic Experiences": [
@@ -109,7 +126,10 @@
       "keywords": [
         "3D Modeling",
         "Rendering",
-        "Drawing"
+        "Drawing",
+        "Digital Painting",
+        "Video Editting",
+        "Color Correcting"
       ]
     },
     {
@@ -118,6 +138,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Blender",
+        "Autodesk Maya",
         "Unreal Engine",
         "Zbrush",
         "Adobe Photoshop",
@@ -155,15 +176,29 @@
   ],
   "interests": [
     {
-      "name": "Art",
+      "name": "Visual Storytelling",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Storyt",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Animations",
+        "Concept Design",
+        "Storyboarding"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Soundspace Design",
+        "Synthesis"
+      ]
+    },
+    {
+      "name": "New Media Art",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Generative Art",
+        "Video Art",
+        "Creative Coding"
       ]
     }
   ],
@@ -189,13 +224,50 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "The Braid Tree",
+      "summary": "",
+      "highlights": ["Animation"],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "Babel",
+      "summary": "",
+      "highlights": ["Animation"],
+      "startDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "Me-ror",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "Saffron Blue",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "8th Day of Creation",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2023",
+      "url": ""
+    },
+    {
+      "name": "Then I Woke Up in Someone else's Dream",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2023",
+      "url": ""
     }
+    
+
   ]
 
 }
