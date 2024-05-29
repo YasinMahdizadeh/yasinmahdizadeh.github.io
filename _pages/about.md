@@ -18,5 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
- I also love both art and mathematics. I studied Mathematics and Physics in one of the best high schools in Iran. There, I spent my time programming and studying computer-related subjects. Afterwards, I began studying architecture as my bachelor's, in order to inform myself more about art. My studying has never been limited to the classroom, and I self-studied my favorite subjects wherever needed.
- 
+Have you come across the Great Sphinx? It stands as a statue of a mythical being amidst the desert, its form a unique amalgamation of a human head, lion body, and eagle wings. Interestingly, I've often likened myself to a Sphinx, being born in Iran, a desert city, with diverse aspects that may not immediately seem to fit but they shape a distinct identity.
+
+
+My passion for both art and mathematics has been a driving force in my educational journey and my life. During high school, I chose Mathematics and Physics, and I spent my time  to the  programming and computer-related studies. After  high school, I pursued architecture for my bachelor's degree to deepen my knowledge of art. My studying has never been limited to the formal classrooms, and I've engaged myself in self-study to explore my favorite subjects extensively.
+
+I’m interested in Digital Art, particularly in Visual Storytelling, Music, and New Media Art, where I seek to create fresh expressions and immersive experiences.
