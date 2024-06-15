@@ -27,8 +27,8 @@
     {
       "institution": "Art University of Isfahan",
       "location": "Isfahan, Iran",
-      "url": "",
-      "area": "Bachelor of Architectural Engineering",
+      "url": "https://en.aui.ac.ir/",
+      "area": "Bachelor of Architectural Engineering, Project: 'Designing of Isfahan Railway Museum' ",
       "studyType": "Bachelor",
       "startDate": "2017-10-01",
       "endDate": "2022-09-01",
@@ -72,7 +72,7 @@
       "position": "Storyboard Artist ",
       "url": "",
       "startDate": "2019-12-01",
-      "endDate": "2020-03-01",
+      "endDate": "2020-02-01",
       "summary": "",
       "highlights": ["Visual Storytelling","Drawing"]
     }
@@ -80,11 +80,18 @@
 
   "awards": [
     {
+      "title": "",
+      "date": "2017",
+      "awarder": "",
+      "url": "",
+      "summary": "Ranked top 2% in the National entrance exam for Iranian universities"
+    },
+    {
       "title": "Robocup Iran Open 2015",
       "date": "2015-04-09",
       "awarder": "",
       "url": "",
-      "summary": "3rd place in Junior Demo Leauge"
+      "summary": "3rd place in Junior Demo Leauge, Subject: 'Conceptual Learning of Robotic Systems Using Artificial Neural Networks'"
     },
     {
       "title": "Robocup Iran Open 2015",
@@ -160,48 +167,21 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent - IELTS Band Score 7.0",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate - B1",
       "icon": ""
     },
     {
       "language": "Persian",
       "fluency": "Native Speaker",
       "icon": ""
-    },
-    {
-      "language": "German",
-      "fluency": "Intermediate",
-      "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Visual Storytelling",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Animations",
-        "Concept Design",
-        "Storyboarding"
-      ]
-    },
-    {
-      "name": "Music",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Soundspace Design",
-        "Synthesis"
-      ]
-    },
-    {
-      "name": "New Media Art",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Generative Art",
-        "Video Art",
-        "Creative Coding"
-      ]
-    }
-  ],
+
   "references": [
     {
       "name": "Dr. Mohsen Afshari",
@@ -244,6 +224,21 @@
       "highlights": ["Video Art"],
       "startDate": "2024",
       "url": ""
+    },
+    {
+      "name": "Me : eM",
+      "summary": "",
+      "highlights": ["Music"],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": "https://soundcloud.com/yasin-mahdizade/sets/me-em"
+    },
+    {
+      "name": "8th Day of Creation",
+      "summary": "",
+      "highlights": ["Music"],
+      "startDate": "2024",
+      "url": "https://soundcloud.com/yasin-mahdizade/8th-day-of-creation"
     },
     {
       "name": "Saffron Blue",
