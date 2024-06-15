@@ -22,7 +22,34 @@
       }
     ]
   },
- 
+  "interests": [
+    {
+      "name": "Visual Storytelling",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Animations",
+        "Concept Design",
+        "Storyboarding"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Soundspace Design",
+        "Synthesis"
+      ]
+    },
+    {
+      "name": "New Media Art",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Generative Art",
+        "Video Art",
+        "Creative Coding"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Art University of Isfahan",
@@ -115,15 +142,67 @@
       "summary": "Selected as an exceptionallz talented student at the entrance exam of National Organization for Development of Exceptional Talents (NODET)"
     }
   ],
-  "Artistic Experiences": [
+  "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "The Braid Tree",
+      "summary": "",
+      "highlights": ["Animation"],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "Babel",
+      "summary": "",
+      "highlights": ["Animation"],
+      "startDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "Me-ror",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "Me : eM",
+      "summary": "",
+      "highlights": ["Music"],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": "https://soundcloud.com/yasin-mahdizade/sets/me-em"
+    },
+    {
+      "name": "8th Day of Creation",
+      "summary": "",
+      "highlights": ["Music"],
+      "startDate": "2024",
+      "url": "https://soundcloud.com/yasin-mahdizade/8th-day-of-creation"
+    },
+    {
+      "name": "Saffron Blue",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2024",
+      "url": ""
+    },
+    {
+      "name": "8th Day of Creation",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2023",
+      "url": ""
+    },
+    {
+      "name": "Then I Woke Up in Someone else's Dream",
+      "summary": "",
+      "highlights": ["Video Art"],
+      "startDate": "2023",
+      "url": ""
     }
+    
+
   ],
   "skills": [
     {
@@ -201,68 +280,7 @@
       "reference": "Tutor, Art University of Isfahan - Email: S.jarrahi@aui.ac.ir / Sami.jarrahi@gmail.com ",
       "email": "S.jarrahi@aui.ac.ir"
     }
-  ],
-  "projects": [
-    {
-      "name": "The Braid Tree",
-      "summary": "",
-      "highlights": ["Animation"],
-      "startDate": "2023",
-      "endDate": "2024",
-      "url": ""
-    },
-    {
-      "name": "Babel",
-      "summary": "",
-      "highlights": ["Animation"],
-      "startDate": "2024",
-      "url": ""
-    },
-    {
-      "name": "Me-ror",
-      "summary": "",
-      "highlights": ["Video Art"],
-      "startDate": "2024",
-      "url": ""
-    },
-    {
-      "name": "Me : eM",
-      "summary": "",
-      "highlights": ["Music"],
-      "startDate": "2023",
-      "endDate": "2024",
-      "url": "https://soundcloud.com/yasin-mahdizade/sets/me-em"
-    },
-    {
-      "name": "8th Day of Creation",
-      "summary": "",
-      "highlights": ["Music"],
-      "startDate": "2024",
-      "url": "https://soundcloud.com/yasin-mahdizade/8th-day-of-creation"
-    },
-    {
-      "name": "Saffron Blue",
-      "summary": "",
-      "highlights": ["Video Art"],
-      "startDate": "2024",
-      "url": ""
-    },
-    {
-      "name": "8th Day of Creation",
-      "summary": "",
-      "highlights": ["Video Art"],
-      "startDate": "2023",
-      "url": ""
-    },
-    {
-      "name": "Then I Woke Up in Someone else's Dream",
-      "summary": "",
-      "highlights": ["Video Art"],
-      "startDate": "2023",
-      "url": ""
-    }
-    
-
   ]
+ 
 
 }
