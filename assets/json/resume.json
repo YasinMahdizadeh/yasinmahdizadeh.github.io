@@ -1,4 +1,6 @@
 {
+
+  
   "basics": {
     "name": "Yasin Mahdi Zadeh",
     "label": "Digital Artist",
@@ -22,6 +24,7 @@
       }
     ]
   },
+
   "interests": [
     {
       "name": "Visual Storytelling",
@@ -50,6 +53,7 @@
       ]
     }
   ],
+
   "education": [
     {
       "institution": "Art University of Isfahan",
@@ -142,6 +146,7 @@
       "summary": "Selected as an exceptionallz talented student at the entrance exam of National Organization for Development of Exceptional Talents (NODET)"
     }
   ],
+
   "projects": [
     {
       "name": "The Braid Tree",
@@ -204,6 +209,7 @@
     
 
   ],
+
   "skills": [
     {
       "name": "Artistic Skills",
@@ -243,6 +249,7 @@
       ]
     }
   ],
+
   "languages": [
     {
       "language": "English",
