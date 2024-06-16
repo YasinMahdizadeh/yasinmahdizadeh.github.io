@@ -2,7 +2,8 @@
 layout: page
 title: Digital Art Portfolio Website
 description: 3D, Sketches, Paintings
-img: assets/img/15.jpg
+img: assets/img/16.jpg
+redirect: https://yasiinmiim.my.canva.site/
 importance: 1
 category: portfolio
 ---

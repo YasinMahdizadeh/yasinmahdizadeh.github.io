@@ -1,8 +1,9 @@
 ---
 layout: page
 title: P5.js Sketches
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: Creative Coding with JavaScript
+img: assets/img/19.jpg
+redirect: https://yasiinmiim.art/p5js/
 importance: 2
 category: creativecoding
 ---
