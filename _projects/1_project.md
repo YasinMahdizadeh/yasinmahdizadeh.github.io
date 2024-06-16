@@ -5,7 +5,7 @@ description: 3D, Sketches, Paintings
 img: assets/img/16.jpg
 redirect: https://yasiinmiim.my.canva.site/
 importance: 1
-category: portfolio
+category: Portfolio
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description: Creative Coding with JavaScript
 img: assets/img/19.jpg
 redirect: https://yasiinmiim.art/p5js/
 importance: 2
-category: creativecoding
+category: CreativeCoding
 ---
 
 Every project has a beautiful feature showcase page.
