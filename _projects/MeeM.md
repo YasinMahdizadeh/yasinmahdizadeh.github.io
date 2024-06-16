@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 8th Day of Creation
-description: A Generative Ambient Single, Made with VCV Rack
-img:
-importance: 4
+title: "Me : eM"
+description: A Generative Ambient Album, Made with VCV Rack
+img: 
+redirect: https://soundcloud.com/yasin-mahdizade/sets/me-em
+importance: 3
 category: Music
 ---
 
