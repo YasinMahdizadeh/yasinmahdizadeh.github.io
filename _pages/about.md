@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: An Iranian <a href='https://yasiinmiim.my.canva.site/'>Digital</a>. and New Media Artist.
+subtitle: An Iranian Digital and New Media Artist.
 
 profile:
   align: right
