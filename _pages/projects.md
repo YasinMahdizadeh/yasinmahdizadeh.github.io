@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of my different artistic projects.
 nav: true
 nav_order: 1
 display_categories: [Portfolio, CreativeCoding, Animations, VideoArts, Music]
