@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: "Me : eM"
+description: A Generative Ambient Album, Made with VCV Rack
+img: 
 importance: 3
 category: Music
 ---

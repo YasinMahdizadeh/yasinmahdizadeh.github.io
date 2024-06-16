@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Babel
+title: The Braid Tree
 description: another without an image
 img:
 importance: 3

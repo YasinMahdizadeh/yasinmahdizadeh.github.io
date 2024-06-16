@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: 8th Day of Creation
+description: A Generative Ambient Single, Made with VCV Rack
 img:
 importance: 4
 category: Music
