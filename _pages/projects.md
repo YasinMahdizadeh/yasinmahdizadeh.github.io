@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [portfolio, creativecoding, videoarts, animations, work, fun]
+display_categories: [Portfolio, CreativeCoding, Animations, VideoArts, Music]
 horizontal: false
 ---
 
