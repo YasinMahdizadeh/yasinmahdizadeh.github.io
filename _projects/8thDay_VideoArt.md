@@ -2,7 +2,7 @@
 layout: page
 title: 8th Day of Creation
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/15.jpg
 importance: 2
 category: VideoArts
 ---

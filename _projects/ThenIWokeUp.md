@@ -2,7 +2,7 @@
 layout: page
 title: Then I Woke Up in Someone Else's Dream
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/13.jpg
 importance: 4
 category: VideoArts
 ---

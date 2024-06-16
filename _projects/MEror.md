@@ -2,7 +2,7 @@
 layout: page
 title: Me-Ror
 description: A video art self portrait
-img: assets/img/7.jpg
+img: assets/img/14.jpg
 importance: 1
 category: VideoArts
 ---
